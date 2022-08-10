@@ -5,4 +5,6 @@ In Masai, I have worked on many projects and built clones of websites like a clo
 Other than coding, my leisure interests are playing cricket, badminton, and coking.
 
 
-email:-chovaramkwd@gmail.com
+email:- chovaramkwd@gmail.com
+portfolio:- https://incomparable-entremet-53381a.netlify.app/
+linkedin:- https://www.linkedin.com/in/chova-ram-sinha-5845a6181/
