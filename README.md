@@ -70,9 +70,7 @@
     <a title="chovaramkwd@gmail.com" href="mailto:chovaramkwd@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chovaramkwd@gmail.com" />
     </a>
-    <a href="">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ganeshjungade" />
-    </a>
+    
 </p>
 
 <br>
@@ -109,11 +107,11 @@
 
 
 <p>
-    <a href="https://github.com/Aryan-2-2/Headphone-Zone-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Headphone-Zone-Clone&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
+    <a href="https://github.com/VaibhavTyagi010/Cab_booking">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramcr32&repo=Cab-Booking-App&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
     </a>
-    <a href="https://github.com/Aryan-2-2/Netmeds-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-2-2&repo=Netmeds-Clone&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
+    <a href="https://github.com/VaibhavTyagi010/uboric-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramcr32&repo=Uboric-Clone&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
     </a>
    
   
