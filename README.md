@@ -108,7 +108,7 @@
 
 <p>
     <a href="https://github.com/VaibhavTyagi010/Cab_booking">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavTyagi010&repo=Cab-Booking-App&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavTyagi010&repo=Cab_booking&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
     </a>
     <a href="https://github.com/VaibhavTyagi010/uboric-clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavTyagi010&repo=Uboric-Clone&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
