@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate
 
-- 👨‍💻 All of my projects are available at [https://incomparable-entremet-53381a.netlify.app/](https://incomparable-entremet-53381a.netlify.app/)
+- 👨‍💻 All of my projects are available at https://incomparable-entremet-53381a.netlify.app/
 
 - 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS**
 
@@ -61,23 +61,23 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/chova-ram-sinha-5845a6181/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/suresh-jungade-837442139/" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
     </a>
-    
+    <a href="https://twitter.com/ss4033167">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ss4033167" />
+    </a>
     <a href="https://incomparable-entremet-53381a.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://incomparable-entremet-53381a.netlify.app/" />
     </a>
     <a title="chovaramkwd@gmail.com" href="mailto:chovaramkwd@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chovaramkwd@gmail.com" />
     </a>
-    
 </p>
 
 <br>
 
- 
- 
- 
+
+
 
 <!----------------------------------- Star Section ------------------------------------>
 
@@ -93,7 +93,7 @@
   
  ## :trophy: Recent GitHub Activity
   <br/>
-   <a href="https://github.com/sathish-dhana"><img alt="sathish-dhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ramcr32&custom_title=ChovaRamSinha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Ramcr32"><img alt="Ramcr32's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ramcr32&custom_title=ChovaRamSinha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
