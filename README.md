@@ -17,8 +17,6 @@
 
 - 👯 I’m looking to collaborate
 
-- 👨‍💻 All of my projects are available at https://incomparable-entremet-53381a.netlify.app/
-
 - 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS**
 
 - 📫 How to reach me **chovaramkwd@gmail.com**
