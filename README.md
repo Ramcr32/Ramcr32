@@ -11,7 +11,7 @@
    <i> Aspiring Java Banckend Developer</i>
 </h3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chovaramsinha&label=Profile%20views&color=0e75b6&style=flat" alt="chovaramsinha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChovaRamSinha&label=Profile%20views&color=0e75b6&style=flat" alt="ChovaRamSinha" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
