@@ -108,8 +108,8 @@
     <a href="https://github.com/Ramcr32/Cab-Booking-Application">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramcr32&repo=Cab-Booking-Application&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
     </a>
-    <a href="https://github.com/VaibhavTyagi010/uboric-clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavTyagi010&repo=Uboric-Clone&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
+    <a href="https://github.com/Ramcr32/uboric-website-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramcr32&repo=uboric-website-clone&locale=en&border_radius=0&theme=dark" alt="ChovaRamSinha" />
     </a>
    
   
