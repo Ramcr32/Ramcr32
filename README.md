@@ -65,8 +65,8 @@
     <a href="https://twitter.com/ss4033167">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ss4033167" />
     </a>
-    <a href="https://incomparable-entremet-53381a.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://incomparable-entremet-53381a.netlify.app/" />
+    <a href="https://bespoke-gingersnap-5cdd3e.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://bespoke-gingersnap-5cdd3e.netlify.app/" />
     </a>
     <a title="chovaramkwd@gmail.com" href="mailto:chovaramkwd@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chovaramkwd@gmail.com" />
