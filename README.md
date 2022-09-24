@@ -14,9 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChovaRamSinha&label=Profile%20views&color=0e75b6&style=flat" alt="ChovaRamSinha" /> </p>
 
- <p align="center">I'm a computer enthusiast 💻.  I love to explore emerging web technologies. I'm skilled in the java, spring-boot. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing cricket 🏏 . I ♥️ talking about creative coding</p>
-
-- 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS**
+ <p align="center">I'm a computer enthusiast 💻.  I love to explore emerging web technologies. I'm skilled in the Java, Spring-Boot. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing cricket 🏏 . I ♥️ talking about creative coding. 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS** </p>
 
 - 📫 How to reach me **chovaramkwd@gmail.com**
 
