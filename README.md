@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chovaramkwd@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1sr6tCPNWPUXOLYOehvH1OXZt7LhSPolG/view?usp=sharing" target="blank"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12ROxKoyWDKuoYVMBMILM30oDLUvJGMlF/view?usp=sharing" target="blank"> Resume</a>
 </p>
 
 <br>
