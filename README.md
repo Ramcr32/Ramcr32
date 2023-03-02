@@ -9,7 +9,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Java Banckend Developer</i>
+   <i> Java Backend Developer</i>
 </h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChovaRamSinha&label=Profile%20views&color=0e75b6&style=flat" alt="ChovaRamSinha" /> </p>
