@@ -9,12 +9,12 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Java Backend Developer</i>
+   <i> Software Developer</i>
 </h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChovaRamSinha&label=Profile%20views&color=0e75b6&style=flat" alt="ChovaRamSinha" /> </p>
 
- <p align="center">I'm a computer enthusiast 💻.  I love to explore emerging web technologies. I'm skilled in the Java, Spring-Boot. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing cricket 🏏 . I ♥️ talking about creative coding. 💬 Ask me about **SpringBoot, Hibernate, MySql, Java, AWS** </p>
+ <p align="center">I'm a computer enthusiast 💻.  I love to explore emerging web technologies. I'm skilled in the Java, Spring-Boot. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing cricket 🏏 . I ♥️ talking about creative coding. 💬 Ask me about **SpringBoot, Hibernate, MySql, Mongodb, Java, Angular, AWS** </p>
 
 - 📫 How to reach me **chovaramkwd@gmail.com**
 
@@ -41,6 +41,7 @@
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
 <a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=700030&label=" alt=""/></a>
 
 
 ### <h2><i>💻 Databases</i></h2>
