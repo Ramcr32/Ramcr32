@@ -9,12 +9,12 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3 align="center">
-   <i> Software Developer</i>
+   <i> Software Engineer</i>
 </h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChovaRamSinha&label=Profile%20views&color=0e75b6&style=flat" alt="ChovaRamSinha" /> </p>
 
- <p align="center">I'm a computer enthusiast 💻.  I love to explore emerging web technologies. I'm skilled in the Java, Spring-Boot. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing cricket 🏏 . I ♥️ talking about creative coding. 💬 Ask me about **SpringBoot, Hibernate, MySql, Mongodb, Java, Angular, AWS** </p>
+ <p align="center">I'm a computer enthusiast 💻.  I love to explore emerging web technologies. I'm skilled in the Java, Spring-Boot. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing cricket 🏏 . I ♥️ talking about creative coding. 💬 Ask me about **SpringBoot, Hibernate, MySql, Mongodb, Java, Angular, Docker, Microservices, Kafka, AWS** </p>
 
 - 📫 How to reach me **chovaramkwd@gmail.com**
 
@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=kafka&logoColor=white" alt="kafka" />
 
 
 
